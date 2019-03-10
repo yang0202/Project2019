@@ -1,0 +1,26 @@
+<resources>
+    <!-- lab3 available -->
+    <string name="app_name">Lab5</string>
+    <string name="wigdet_message">Here are my widgets:</string>
+    <string name="ButtonText">Button</string>
+    <string name="checkBox">Check this out!</string>
+    <string name="switchBox">Switch on / off</string>
+    <string name="hint">Type your answer here</string>
+
+    <!-- lab4 available -->
+    <string name="txtEmail">Enter your email address:</string>
+    <string name="txtEmailHint">Type email here</string>
+    <string name="txtPass">Type your password:</string>
+    <string name="txtLogin">LOGIN</string>
+    <string name="txtProfile">Your profile:</string>
+    <string name="txtProName">Your name:</string>
+    <string name="txtProEmail">Your email:</string>
+    <string name="txtProPicture">Your picture:</string>
+    <string name="txtProClick">Click the button above  to take a picture</string>
+
+    <!-- lab5 available -->
+    <string name="buttonSend">SEND</string>
+    <string name="buttonReceive">RECEIVE</string>
+    <string name="buttonGotoChat">Goto Chat</string>
+
+</resources>

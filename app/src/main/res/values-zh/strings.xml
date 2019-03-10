@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- lab3 available -->
+    <string name="app_name">实验5</string>
+    <string name="ButtonText">我是一个按钮</string>
+    <string name="checkBox">点选这个</string>
+    <string name="switchBox">切换开关</string>
+    <string name="wigdet_message">这是一个小工具</string>
+    <string name="hint">输入你的答案</string>
+
+    <!-- lab4 available -->
+    <string name="buttonGotoChat">进入聊天室</string>
+    <string name="buttonSend">发送</string>
+    <string name="txtEmail">输入你的邮箱：</string>
+    <string name="txtEmailHint">输入邮箱</string>
+    <string name="txtLogin">登录</string>
+    <string name="txtPass">输入你的密码：</string>
+    <string name="txtProClick">点击上面的按钮拍照</string>
+    <string name="txtProEmail">邮箱：</string>
+    <string name="txtProName">姓名：</string>
+
+    <!-- lab5 available -->
+    <string name="txtProPicture">图片：</string>
+    <string name="txtProfile">档案：</string>
+    <string name="buttonReceive">接收</string>
+
+</resources>
