@@ -56,6 +56,17 @@ public class ProfileActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        Button toolBt = (Button) findViewById(R.id.buttonGotoToolbar);
+        toolBt.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(ProfileActivity.this, TestToolbar.class);
+                startActivity(intent);
+            }
+        });
+
+
         Log.e(ACTIVITY_NAME, "In onCreate()");
 
         Log.e(ACTIVITY_NAME, "In onCreate()");

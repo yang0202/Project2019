@@ -12,6 +12,8 @@
 
         <activity android:name=".ChatRoomActivity"></activity>
         <activity android:name=".ProfileActivity"></activity>
+        <activity android:name=".TestToolbar"></activity>
+
 
         <activity android:name=".LoginActivity">
             <intent-filter>

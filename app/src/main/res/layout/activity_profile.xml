@@ -58,4 +58,15 @@
         android:layout_height="wrap_content"
         android:text="@string/buttonGotoChat" />
 
+    <Button
+        android:id="@+id/buttonGotoToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/buttonGotoToolbar" />
+
+
+
+
+
+
 </LinearLayout>
