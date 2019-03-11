@@ -11,7 +11,6 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
@@ -62,15 +61,19 @@ public class TestToolbar extends AppCompatActivity {
                 Toast.makeText(this, message, Toast.LENGTH_LONG).show();
 
                 break;
+
             case R.id.menuItem2:
                 //Show the toast immediately:
                 //Toast.makeText(this, "Welcome to Menu Example", Toast.LENGTH_LONG).show();
-                alertExample();
+                messagePage();
                 break;
+
+
+
             case R.id.menuItem3:
                 //Show the toast immediately:
                 //Toast.makeText(this, "Welcome to Menu Example", Toast.LENGTH_LONG).show();
-                Snackbar sb = Snackbar.make(tBar, "Go Back?", Snackbar.LENGTH_LONG)
+                Snackbar sb = Snackbar.make(tBar, " ", Snackbar.LENGTH_LONG)
                         .setAction("GoBack", e ->{
                             Log.e("Menu Example", "Clicked Undo");
                             finish();
@@ -86,9 +89,9 @@ public class TestToolbar extends AppCompatActivity {
         }
         return true;
     }
-    public void alertExample()
+    public void messagePage()
     {
-        View middle = getLayoutInflater().inflate(R.layout.view_extra_stuff, null);
+        View middle = getLayoutInflater().inflate(R.layout.menu2layout, null);
 
         EditText et = (EditText)middle.findViewById(R.id.view_edit_text);
         //btn.setOnClickListener( clk -> {et.setText("You clicked my button!");});

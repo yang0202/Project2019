@@ -3,13 +3,13 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item android:id="@+id/menuItem1"
         android:title="@string/menuName1"
-        android:icon="@drawable/fst_airport"
+        android:icon="@drawable/inimessage"
         android:orderInCategory="1001"
         app:showAsAction="always"/>
 
     <item android:id="@+id/menuItem2"
         android:title="@string/menuName2"
-        android:icon="@drawable/mwd_books"
+        android:icon="@drawable/inputmessage"
         android:orderInCategory="1002"
         app:showAsAction="always"/>
 

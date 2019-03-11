@@ -4,7 +4,7 @@
     android:id="@+id/activity_message_details"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.min.androidlabs.MessageDetails">
+    tools:context="com.example.min.androidlabs.TestToolbar">
 
     <FrameLayout
         android:layout_width="match_parent"

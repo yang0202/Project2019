@@ -1,6 +1,6 @@
 <resources>
     <!-- lab3 available -->
-    <string name="app_name">Lab5</string>
+    <string name="app_name">Lab6</string>
     <string name="wigdet_message">Here are my widgets:</string>
     <string name="ButtonText">Button</string>
     <string name="checkBox">Check this out!</string>
@@ -30,7 +30,7 @@
     <string name="menuName1">Choice 1</string>
     <string name="menuName2">Choice 2</string>
     <string name="menuName3">Choice 3</string>
-    <string name="menuName4">About</string>
+    <string name="menuName4">You clicked on the overflow menu</string>
     <string name="search">Search</string>
     <string name="aButton">Go Back?</string>
 

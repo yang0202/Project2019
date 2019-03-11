@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- lab3 available -->
-    <string name="app_name">实验5</string>
+    <string name="app_name">实验6</string>
     <string name="ButtonText">我是一个按钮</string>
     <string name="checkBox">点选这个</string>
     <string name="switchBox">切换开关</string>
@@ -27,12 +27,12 @@
     <!-- lab6 available -->
 
     <string name="buttonGotoToolbar">Goto Toolbar</string>
-    <string name="menuName1">Choice 1</string>
-    <string name="menuName2">Choice 2</string>
-    <string name="menuName3">Choice 3</string>
-    <string name="menuName4">About</string>
-    <string name="search">Search</string>
-    <string name="aButton">Go Back?</string>
+    <string name="menuName1">选项一</string>
+    <string name="menuName2">选项二</string>
+    <string name="menuName3">选项三</string>
+    <string name="menuName4">关于</string>
+    <string name="search">搜索</string>
+    <string name="aButton">返回?</string>
 
 
 </resources>
